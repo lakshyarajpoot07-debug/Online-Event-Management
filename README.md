@@ -6,7 +6,7 @@ The Online Event Manager is a desktop-based application built with Java Swing th
 Online-Event-Manager/
 │── DBConnection.java
 │── EventManagerUI.java
-│── Launcher.java
+│── Main.java
 │── schema.sql
 │── README.md
 
